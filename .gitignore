@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.env
+*.json
+*.key
+*.pdf
+firebase.js
+node_modules/
