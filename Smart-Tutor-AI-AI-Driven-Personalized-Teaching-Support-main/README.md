@@ -1,8 +1,5 @@
 # Smart Tutor AI: Personalized Teaching Support
 
-**INFO 5731 - Computational Methods for Information Systems**  
-University of North Texas, Spring 2025
-
 [RAG Pipeline Architecture]
 
 <img width="746" alt="RAG Pipeline" src="https://github.com/user-attachments/assets/856dca10-e7c4-42e5-ac78-f39ca13ee96a" />
